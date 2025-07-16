@@ -170,6 +170,7 @@ Skills applied directly in result selection interface:
   - Statistics button to view comprehensive roll history and outcomes
   - Tables page
     - reproduce all tables that are referenced so that the user can reference them at anytime
+  - Allow a user to run a test of 1000 standard dice rolls and 1000 block dice roll. These roll are not to be included in the historical statistics on dice rolls and should state so. Please show results the same as the historical stats as mentioned previously but do not add the "test" rolls to the historical rolls. 
 
 ### Mobile Optimization
 - Touch-friendly 44px+ targets
@@ -281,7 +282,7 @@ Please reference and review Skills & Traits and adjust at what stage of the proc
 - Error handling and validation
 - Complete Blood Bowl rule implementation
 
-Generate a complete, production-ready application following these specifications with all components, proper state management, accurate game mechanics, integrated skill selection, complete injury resolution system, and comprehensive statistics tracking with persistent storage including outcome tracking and casualty varieties. 
+Generate a complete, production-ready application following these specifications with all components, proper state management, accurate game mechanics, integrated skill selection, complete injury resolution system, and comprehensive statistics tracking with persistent storage including outcome tracking and casualty varieties.
 
 If an error occurs while turning to run the app, please automatically fix using whatever services are needed to make it work.
 
