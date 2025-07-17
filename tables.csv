@@ -1,0 +1,29 @@
+table,result,dice used,roll required for result
+Injury,Stunned,2D6,2-7
+Injury,KO'd,2D6,8-9
+Injury,Casualty,2D6,10-12
+Casualty,Badly Hurt,D16,1-6
+Casualty,Seriously Hurt (Miss Next Game),D16,7-9
+Casualty,Serious Injury (Niggling Injury + Miss Next Game),D16,10-12
+Casualty,Lasting Injury (Stat Decrease + Miss Next Game),D16,13-14
+Casualty,Dead,D16,15-16
+Lasting Injury,Head Injury (–1 AV),D6,1-2
+Lasting Injury,Smashed Knee (–1 MA),D6,3
+Lasting Injury,Broken Arm (–1 PA),D6,4
+Lasting Injury,Neck Injury (–1 AG),D6,5
+Lasting Injury,Dislocated Shoulder (–1 ST),D6,6
+Stunty Injury,Stunned,2D6,2-6
+Stunty Injury,KO'd,2D6,7-8
+Stunty Injury,Badly Hurt,2D6,9
+Stunty Injury,Casualty,2D6,10-12
+Argue the Call,Thrown Out,D6,1
+Argue the Call,Accepted Dissent,D6,2-5
+Argue the Call,Successful Argument,D6,6
+Apothecary,KO’d on the pitch: Remain Stunned on the pitch,N/A,Use immediately when a player is Knocked Out on the pitch
+Apothecary,KO’d from crowd: Move to Reserves box,N/A,Use immediately when a player is KO’d from the crowd
+Apothecary,Casualty: Re-roll Casualty (choose best),D16,Use immediately after Casualty roll; opponent rolls again and you select which result to keep
+Apothecary,Badly Hurt (via apothecary): Go to Reserves,N/A,If result is Badly Hurt and chosen, player goes to Reserves instead of Casualty
+Regeneration,Successful (move to Reserves),D6,4-6
+Regeneration,Failed (stay in Casualty box),D6,1-3
+Knock Out Recovery,Wakes Up (returns to Reserves),D6,4-6 (3-6 if with Bloodweiser Keg)
+Knock Out Recovery,Remains KO'd,D6,1-3 (1-2 if with Bloodweiser Keg)
